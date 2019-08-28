@@ -8,7 +8,7 @@ Thank you Wisesight for thr dataset for the sentiment Analysis
 	
 	Data --> Remove Punctuation --> Word Segmentation --> Word Embedding --> Gradient boosting --> Output
 	
-	This model is also use in the API (API.py) deply using flask. Unfortuanatly because my machine use Window 10 home, I can not use Docker.
+	This model is also use in the API (API.py) deply using flask.
 
 	2. Deep Learning Models
 
