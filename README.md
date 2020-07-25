@@ -1,5 +1,4 @@
 # Sentiment-Analysis
-As part of the Wisesight interview assignment
 Thank you Wisesight for the dataset for the sentiment Analysis
 
 - The rough architecture in the notebook are 
